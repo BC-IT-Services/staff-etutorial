@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://u89u31_hrCBttIwtZPPa4xFUHQiSO4GL_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Working Safely – An Introduction to Workplace Health and Safety</name>
+      <description lang="en-US">All employees are entitled to work in a safe environment provided by their employer.As an employee it is also your responsibility to take care of your own health and safety and not put your co-workers at risk.&lt;br&gt;Working safely involves recognising that there are risks present in any work environment.&amp;nbsp;If you work in a construction industry, you could be at risk of a fall, or exposed to hazardous substances like asbestos. Would you be able to recognise these hazards, and have you done the necessary training to work safely?&amp;nbsp;&lt;br&gt;Even office workers are exposed to risks due to improper use of their display screens. They can put themselves and others at risk by not following correct fire safety procedures. As an employee, if you are able to recognise these hazards, you can protect yourself and your colleagues from harm. You also need to cooperate with your employer who has procedures and policies in place to keep you safe.&amp;nbsp;&lt;br&gt;In this course you will learn&amp;nbsp;&lt;ol&gt;&lt;li&gt;Consequences of disregarding health and safety&amp;nbsp;&lt;/li&gt;&lt;li&gt;The law regarding health and safety&amp;nbsp;&lt;/li&gt;&lt;li&gt;Your employer&amp;rsquo;s responsibility&amp;nbsp;&lt;/li&gt;&lt;li&gt;Your responsibility as an employee&amp;nbsp;&lt;/li&gt;&lt;li&gt;Thinking safe and preventing accidents&lt;/li&gt;&lt;/ol&gt;</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://u89u31_hrCBttIwtZPPa4xFUHQiSO4GL_rise/TiFfUTGdvQ9uYzoQ7mWPNteA-tLlM1KB" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Consequences of disregarding health and safety /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://u89u31_hrCBttIwtZPPa4xFUHQiSO4GL_rise/tpHbQlde5u1TChCVlW0z8XGVHRWGXEfx" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">The law regarding health and safety/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://u89u31_hrCBttIwtZPPa4xFUHQiSO4GL_rise/NQrcC5Fpht0BctjtZuU_ArQ5IfZhpLTJ" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Your employer’s responsibility /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://u89u31_hrCBttIwtZPPa4xFUHQiSO4GL_rise/XJTZfYktGgAXqdFRsEEOYe25kiWI9GNd" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Your responsibility as an employee /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://u89u31_hrCBttIwtZPPa4xFUHQiSO4GL_rise/9MZRS2iX1kUolzQkxlzt2LDc2-uPy8on" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Thinking safe and preventing accidents/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://u89u31_hrCBttIwtZPPa4xFUHQiSO4GL_rise/2Xe9_uQaGEzrxc4WIl0dNrPas4pKZX1q" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Conclusion/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
