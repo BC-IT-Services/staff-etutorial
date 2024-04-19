@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://nfp_L7JPrR7H5r3lDOcOy3dA6YdNyg_y_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Gweithio’n Ddiogel – Cyflwyniad i Iechyd a Diogelwch yn y Gweithle</name>
+      <description lang="en-US">Mae gan bob cyflogai hawl i weithio mewn amgylchedd diogel a ddarperir gan ei gyflogwr.Fel cyflogai, mae hefyd yn gyfrifoldeb arnoch chi i ofalu am eich iechyd a&amp;rsquo;ch diogelwch eich hun, ac i beidio &amp;acirc; rhoi eich cydweithwyr mewn perygl.&lt;br&gt;Mae gweithio&amp;rsquo;n ddiogel yn golygu cydnabod bod risgiau&amp;rsquo;n bresennol mewn unrhyw amgylchedd gwaith.&lt;br&gt;Os ydych yn gweithio yn y diwydiant adeiladu, gallech fod mewn perygl o gwympo, neu o ddod i gysylltiad &amp;acirc; sylweddau peryglus fel asbestos. A fyddech chi&amp;rsquo;n gallu adnabod y peryglon hyn? Ydych chi wedi gwneud yr hyfforddiant angenrheidiol i weithio&amp;rsquo;n ddiogel?&lt;br&gt;Mae gweithwyr swyddfa hefyd yn agored i risgiau, e.e. os ydynt yn defnyddio eu sgriniau arddangos mewn modd amhriodol. Gallant roi eu hunain ac eraill mewn perygl trwy beidio &amp;acirc; dilyn gweithdrefnau diogelwch t&amp;acirc;n cywir. Fel cyflogai, os ydych chi&amp;rsquo;n gallu adnabod y peryglon hyn, gallwch amddiffyn eich hun a&amp;#39;ch cydweithwyr rhag niwed. Mae angen hefyd i chi gydweithredu &amp;acirc;&amp;#39;ch cyflogwr, sydd &amp;acirc; gweithdrefnau a pholis&amp;iuml;au i&amp;#39;ch cadw&amp;#39;n ddiogel.&lt;br&gt;Yn y cwrs hwn, byddwch yn dysgu:&amp;nbsp;&lt;ol&gt;&lt;li&gt;Canlyniadau diystyru iechyd a diogelwch&amp;nbsp;&lt;/li&gt;&lt;li&gt;Y gyfraith ynghylch iechyd a diogelwch&amp;nbsp;&lt;/li&gt;&lt;li&gt;Cyfrifoldeb eich cyflogwr&lt;/li&gt;&lt;li&gt;Eich cyfrifoldeb chi fel cyflogai&lt;/li&gt;&lt;li&gt;Meddwl yn ddiogel ac atal damweiniau&lt;/li&gt;&lt;/ol&gt;</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://nfp_L7JPrR7H5r3lDOcOy3dA6YdNyg_y_rise/BsdSGdFo2rHhsJL44BYAaE6VW3nUeb3m" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Canlyniadau diystyru iechyd a diogelwch/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://nfp_L7JPrR7H5r3lDOcOy3dA6YdNyg_y_rise/LJY6C8IqZ5Y1Gz7Ra2qtnL_hgN-j1Ysj" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Y gyfraith ynghylch iechyd a diogelwch/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://nfp_L7JPrR7H5r3lDOcOy3dA6YdNyg_y_rise/QHdxF4ZKhG3gKg8NzlWTGVr1edsAMXxk" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Cyfrifoldeb eich cyflogwr /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://nfp_L7JPrR7H5r3lDOcOy3dA6YdNyg_y_rise/yKZFXMoFgWXFaghz30nmjrW6IyBGi2xf" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Eich cyfrifoldeb chi fel cyflogai /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://nfp_L7JPrR7H5r3lDOcOy3dA6YdNyg_y_rise/DT0xWPS3fxk5LIr_tT7l7emRu4NxzQKz" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Meddwl yn ddiogel ac atal damweiniau/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://nfp_L7JPrR7H5r3lDOcOy3dA6YdNyg_y_rise/9_7U0GK8sJHX3qGmTyLkZZGptaKjGFw8" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Casgliad /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
