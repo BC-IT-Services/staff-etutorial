@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://BT8_YLHIpYIIdsF_gSGVQr9VNP2Fc6xD_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Keeping Learners Safe</name>
+      <description lang="en-US"></description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://BT8_YLHIpYIIdsF_gSGVQr9VNP2Fc6xD_rise/widGF0u0sQeUsjejRocaW-yHp9ILd9vg" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">What is safeguarding?/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://BT8_YLHIpYIIdsF_gSGVQr9VNP2Fc6xD_rise/zvyRoZBasS_Zkt4eIcapTqxRRgbGJUVG" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Harm/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://BT8_YLHIpYIIdsF_gSGVQr9VNP2Fc6xD_rise/PxpA47OuM-eouJI6zC2T1iDBwzaw7-8j" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Trauma/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://BT8_YLHIpYIIdsF_gSGVQr9VNP2Fc6xD_rise/tzV7ZjrkbtDiJ3BB8U_dUcqGkComNMZ7" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">The Rights and Wellbeing of Future Generations/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://BT8_YLHIpYIIdsF_gSGVQr9VNP2Fc6xD_rise/XdYfX0c5RFJsJJTm7NKJKXBDxsMgQ5y2" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Your Duties/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
