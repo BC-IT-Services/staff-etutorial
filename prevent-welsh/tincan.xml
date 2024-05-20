@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://C2Vl-LPtC6V-kcaE-uATTaL_rFY3r0Ai_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Dyletswydd</name>
+      <description lang="en-US">Mae &lt;strong&gt;Coleg Penybont&lt;/strong&gt; yn ymdrechu i amddiffyn ei staff a&amp;#39;i fyfyrwyr rhag radicaleiddio ac eithafiaeth. Bydd y cwrs hwn yn eich galluogi i ddeall &lt;strong&gt;Strategaeth Gwrthderfysgaeth y Llywodraeth &lt;/strong&gt;- &amp;#39;&lt;strong&gt;Prevent&lt;/strong&gt;&amp;#39;. Nod y strategaeth hon yw helpu pobl sydd mewn perygl o ddod yn derfysgwyr neu gefnogi terfysgaeth i&amp;#39;w hatal rhag gwneud hynny.&lt;br&gt;Mae &lt;strong&gt;&lt;strong&gt;Prevent&amp;nbsp;&lt;/strong&gt;&lt;/strong&gt;yn sefyll ochr yn ochr &amp;acirc; dyletswyddau diogelu eraill sydd wedi&amp;rsquo;u hen sefydlu ac mae&amp;rsquo;n rhan o&amp;rsquo;r Strategaeth Gwrthderfysgaeth sy&amp;rsquo;n golygu bod gan awdurdodau mewn sectorau penodol fel addysg, iechyd, awdurdodau lleol, yr heddlu ac asiantaethau cyfiawnder troseddol (carchardai, y gwasanaeth prawf, cyfiawnder ieuenctid) ddyletswydd i helpu i atal pobl rhag dod yn derfysgwyr neu gefnogi terfysgaeth.&lt;br&gt;Drwy gwblhau&amp;rsquo;r cwrs, byddwch yn dod i ddeall yr hyn sy&amp;#39;n achosi radicaleiddio ac eithafiaeth, a beth i&amp;rsquo;w wneud os ydych yn dod ar draws unrhyw ymddygiadau sy&amp;rsquo;n peri pryder.&lt;br&gt;Bydd &lt;strong&gt;Coleg Penybont&lt;/strong&gt; yn cyflawni ei gyfrifoldebau yn unol &amp;acirc; &lt;strong&gt;Chanllawiau&amp;#39;r Ddyletswydd Prevent&amp;nbsp;&lt;/strong&gt;ar gyfer sefydliadau addysg bellach yng Nghymru a Lloegr.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://C2Vl-LPtC6V-kcaE-uATTaL_rFY3r0Ai_rise/IynF660kXF9_eSLst1_TUveluzSzX3W7" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Radicaleiddio/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://C2Vl-LPtC6V-kcaE-uATTaL_rFY3r0Ai_rise/TXHWmPLXjJFI4jPNgi_wkzrB5jaLey3m" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Strategaeth &#39;Prevent&#39;/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://C2Vl-LPtC6V-kcaE-uATTaL_rFY3r0Ai_rise/A-LiD9GEueGZdeS2L_x5De-G0EFcZekT" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Diogelu/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://C2Vl-LPtC6V-kcaE-uATTaL_rFY3r0Ai_rise/S3IUg4nXJI05VXKp0cN6xMxicz74NGFr" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Gwydnwch rhag radicaleiddio/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
