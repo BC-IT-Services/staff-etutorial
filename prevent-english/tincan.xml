@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://mwxFZ5Yxb6iN4Qvy5asgFRIW93trPhL__rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Prevent</name>
+      <description lang="en-US">&lt;strong&gt;Bridgend College&lt;/strong&gt; seeks to protect its staff and students against radicalisation and extremism. This course will enable you to understand the &lt;strong&gt;Government Counter Terrorism Strategy&lt;/strong&gt; - &lt;strong&gt;Prevent&lt;/strong&gt;. This strategy aims to help people who are at risk of becoming terrorists or supporting terrorism.&lt;br&gt;&lt;strong&gt;&lt;strong&gt;Prevent&amp;nbsp;&lt;/strong&gt;&lt;/strong&gt;sits alongside long-established safeguarding duties and is part of the Counter-Terrorism Strategy meaning that specified authorities such as education, health, local authorities, police and criminal justice agencies (prisons, probation, youth justice) have a duty to help prevent people from becoming terrorists or supporting terrorism.&lt;br&gt;By completing the course, you will understand the root cause of radicalisation, extremism and what to do if you come across any concerning behaviours.&lt;br&gt;&lt;strong&gt;Bridgend College&lt;/strong&gt; will fulfil its responsibilities as outlined by the &lt;strong&gt;Prevent Duty Guidance&lt;/strong&gt;, for further education institutions in England and Wales.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://mwxFZ5Yxb6iN4Qvy5asgFRIW93trPhL__rise/Zs6M1e1xiIdKmEVBLnBVmKEl74WaZPMK" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Radicalisation/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://mwxFZ5Yxb6iN4Qvy5asgFRIW93trPhL__rise/8qr7udFuo9dP0ZArQOEdiNIOc5AzxMl6" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Prevent Strategy/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://mwxFZ5Yxb6iN4Qvy5asgFRIW93trPhL__rise/htClHspq_64H5EmSfplmyjjLyEuhJY_K" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Safeguarding/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://mwxFZ5Yxb6iN4Qvy5asgFRIW93trPhL__rise/jf8e2uuDGQvigwrmEWlJEWnD6zVMvApp" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Resilience against radicalisation/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
