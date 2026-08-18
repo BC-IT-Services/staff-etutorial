@@ -1,1 +1,25 @@
-<!doctype html><html><head><meta charset="utf-8"><title></title><meta name="viewport" content="width=device-width,initial-scale=1"><script defer="defer" src="c77685df.js"></script><link href="4adfab46.css" rel="stylesheet"></head><body></body></html>
+<!doctype html><html><head><script>
+  // Dummy API for SCORM 1.2
+  window.API = {
+    LMSInitialize: function() { return "true"; },
+    LMSFinish: function() { return "true"; },
+    LMSGetValue: function() { return ""; },
+    LMSSetValue: function() { return "true"; },
+    LMSCommit: function() { return "true"; },
+    LMSGetLastError: function() { return "0"; },
+    LMSGetErrorString: function() { return "No error"; },
+    LMSGetDiagnostic: function() { return "No error"; }
+  };
+
+  // Dummy API for SCORM 2004
+  window.API_1484_11 = {
+    Initialize: function() { return "true"; },
+    Terminate: function() { return "true"; },
+    GetValue: function() { return ""; },
+    SetValue: function() { return "true"; },
+    Commit: function() { return "true"; },
+    GetLastError: function() { return "0"; },
+    GetErrorString: function() { return "No error"; },
+    GetDiagnostic: function() { return "No error"; }
+  };
+</script><meta charset="utf-8"><title></title><meta name="viewport" content="width=device-width,initial-scale=1"><script defer="defer" src="c77685df.js"></script><link href="4adfab46.css" rel="stylesheet"></head><body></body></html>
